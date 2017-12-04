@@ -1,4 +1,4 @@
-# Introdução à inteligencia artificial Aplicada à veiculos autonomos
+# Introdução à inteligencia artificial aplicada à veiculos autonomos
 Uma introdução aos assuntos que serão desenvolvidos na disciplina de Sistemas autônomos.
 
 ## Universidade de Fortaleza - Unifor
